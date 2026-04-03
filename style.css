@@ -1,0 +1,26 @@
+body {
+    font-family: Arial;
+    background: linear-gradient(to right, #667eea, #764ba2);
+    color: white;
+    text-align: center;
+}
+
+nav {
+    background: black;
+    padding: 10px;
+}
+
+.main {
+    margin-top: 100px;
+}
+
+.btn {
+    background: white;
+    color: black;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+.login-box {
+    margin-top: 100px;
+}
